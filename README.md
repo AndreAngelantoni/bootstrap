@@ -160,6 +160,20 @@ You can find all our previous releases docs on <https://getbootstrap.com/docs/ve
 
 [Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
 
+## Version Support
+
+We currently support Bootstrap 5.
+
+Commercial support for Versions 4, 3, and 2 is available through our partner, [HeroDevs](https://www.herodevs.com/support/nes-bootstrap?utm_source=bootstrap&utm_medium=github+&utm_campaign=bootstrap_repo&utm_content=link).
+
+
+ Version | Supported? |  Commercial Support
+ ------------- |---------------------|---------------------
+ 5               | Yes
+ 4               | No | [`Available Here`](https://www.herodevs.com/support/nes-bootstrap?utm_source=bootstrap&utm_medium=github+&utm_campaign=bootstrap_repo&utm_content=link)
+ 3               | No | [`Available Here`](https://www.herodevs.com/support/nes-bootstrap?utm_source=bootstrap&utm_medium=github+&utm_campaign=bootstrap_repo&utm_content=link)
+ 2               | No | [`Available Here`](https://www.herodevs.com/support/nes-bootstrap?utm_source=bootstrap&utm_medium=github+&utm_campaign=bootstrap_repo&utm_content=link)
+
 
 ## Contributing
 
